@@ -5,6 +5,7 @@ a,
 span,
 p {
    font-family:
+
 	 Montserrat, sans-serif;
 }
 
@@ -174,7 +175,7 @@ nav ul li {
 
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
    font-size: 14px;
-   font-weight: bold;
+   font-weight: 600;
    color: black;
    padding-left: 10px;
 }
@@ -199,7 +200,7 @@ nav ul li {
    }
 
    .homeInfo img {
-      margin: 40px 100px 50px 100px;
+      margin: 40px 100px 50px;
       float: none;
    }
 
@@ -230,7 +231,7 @@ nav ul li {
    }
 
    .homeInfo img {
-      margin: 40px 50px 50px 50px;
+      margin: 40px 50px 50px;
       float: none;
    }
 
@@ -245,7 +246,7 @@ nav ul li {
    }
 
    .contact {
-      margin: 50px 50px;
+      margin: 50px;
    }
 }
 
@@ -257,7 +258,7 @@ nav ul li {
    }
 
    .homeInfo img {
-      margin: 40px 100px 50px 100px;
+      margin: 40px 100px 50px;
       float: none;
    }
 
